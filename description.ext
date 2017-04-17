@@ -1,0 +1,12 @@
+#define TB_loadingScreen_imagePath "loadimage.jpg"
+
+onLoadName="Chahar Dara";
+overviewPicture="loadimage.jpg";
+author="Schadler.C. Maintained by TacBF Team.";
+onLoadMission="Tactical Battlefield: <t color='#FF00AEC9'>Attack and Defend (A&amp;D).</t><br />Desert, towns.<br /><t color='#FF00AEFF'>US</t> = light vehicles (HMG). FOs, MWs.<br /><t color='#FFD66361'>INS</t> = light vehicles (HMG). HOs, MWs.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"

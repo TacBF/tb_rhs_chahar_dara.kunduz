@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Chahar Dara">
+
+	<Key ID="STR_TB_missionTitle_TB_Chahar Dara">
+		<Original>Chahar Dara</Original>
+		<English>Chahar Dara</English>
+		<German>Chahar Dara</German>
+		<Italian>Chahar Dara</Italian>
+		<Spanish>Chahar Dara</Spanish>
+		<French>Chahar Dara</French>
+		<Czech>Chahar Dara</Czech>
+		<Russian>Chahar Dara</Russian>
+		<Polish>Chahar Dara</Polish>
+		<Hungarian>Chahar Dara</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Chahar Dara">
+		<Original>TacBF A&amp;D[M-30]: Chahar Dara</Original>
+		<English>TacBF A&amp;D[M-30]: Chahar Dara</English>
+		<German>TacBF A&amp;D[M-30]: Chahar Dara</German>
+		<Italian>TacBF A&amp;D[M-30]: Chahar Dara</Italian>
+		<Spanish>TacBF A&amp;D[M-30]: Chahar Dara</Spanish>
+		<French>TacBF A&amp;D[M-30]: Chahar Dara</French>
+		<Czech>TacBF A&amp;D[M-30]: Chahar Dara</Czech>
+		<Russian>TacBF A&amp;D[M-30]: Chahar Dara</Russian>
+		<Polish>TacBF A&amp;D[M-30]: Chahar Dara</Polish>
+		<Hungarian>TacBF A&amp;D[M-30]: Chahar Dara</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
